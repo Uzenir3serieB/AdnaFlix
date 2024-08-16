@@ -1,4 +1,13 @@
 body{
     color:pink;
     background-color: beige;
+    margin: 0px;
+
+}
+header {
+    border-bottom: solid 3px rgb(114, 40, 108);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(221, 42, 176);
+    
 }
